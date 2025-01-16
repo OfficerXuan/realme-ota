@@ -8,7 +8,7 @@ setup(name='realme-ota',
       author='Roger Ortiz',
       author_email='',
       install_requires=['requests', 'pycryptodome'],
-      url='https://github.com/R0rt1z2/realme-ota',
+      url='https://github.com/OfficerXuan/realme-ota',
       packages=['realme_ota', 'realme_ota.utils'],
       scripts=['realme-ota']
 )
